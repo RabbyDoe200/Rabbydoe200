@@ -12,7 +12,7 @@
 
 <img align="right" alt="coding" width="300" src="https://github.com/snitch97/snitch97/blob/main/assests/images/coding_gif.gif"/>
 
-- 💼 **Current Role**: Full Stack Developer and Blockchain Engineer delivering high-quality web solutions.
+- 💼 **Current Role**: Full Stack Developer and AI Engineer delivering high-quality web solutions.
 - 🤝 **Leadership**: Managing a skilled developer team with a focus on collaboration and innovation.
 - 🚀 **Learning**: Exploring advanced platform architecture & machine learning (AI).
 - 🌐 **Expertise**: Project Management, Full-stack Development (React, TypeScript, Next.js, Solidity, Rust, Supabase, etc.).
